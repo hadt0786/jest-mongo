@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.6.9"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "jest": "^24.8.0"
